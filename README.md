@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1> Hi, I'm Praveen Kaushik 👨🏻‍💻 </h1>
 
 ### Connect with me:  
@@ -34,8 +33,12 @@
 <img src='https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white'/>
 <img src='https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white'/>
 
+### Show your support:
+If you appreciate my work, please consider following and liking me 😉.
+
 <!--
 **praveenkaushik80/praveenkaushik80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
