@@ -15,10 +15,11 @@
 * Deep Learning Applications
 ------------------------
 
+<!--
 ## Github stats
 
 <img src='https://github-readme-stats.vercel.app/api?username=praveenkaushik80&show_icons=true&theme=dracula)'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkaushik80&card_height=250&theme=dracula&hide_border=false&include_all_commits=false&count_private=falselayout=compact' alt="Praveen's Top Languages" align="right" width="220"/>
-
+-->
 
 ## My Skills
 ### Libraries/Languages/Frameworks I'm good at:
